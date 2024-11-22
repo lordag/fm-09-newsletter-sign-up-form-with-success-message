@@ -225,7 +225,7 @@ input.error::-webkit-input-placeholder {
     display: none;
 }
 
-@media screen and (min-width: 576px){
+@media screen and (min-width: 36rem){
     body{        
         display: flex;
         
@@ -354,7 +354,7 @@ input.error::-webkit-input-placeholder {
 
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 48rem){
     main{
         width: 55rem;
     }
